@@ -1,3 +1,6 @@
-.App {
-
+.button {
+  @apply bg-black pt-2 pb-3 px-5 rounded-lg text-white absolute bottom-1 right-1;
+}
+.icon {
+  @apply fill-current text-blue-600 text-9xl mt-10;
 }
